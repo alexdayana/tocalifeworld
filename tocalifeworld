@@ -22,10 +22,10 @@
             "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
         },
         "Yandex": {
-            "activated": false,
-            "banner": "R-M-1355917-2",
-            "native": "R-M-1355917-3",
-            "interstitial": "R-M-1355917-1"
+            "activated": true,
+            "banner": "R-M-1600508-3",
+            "native": "R-M-1600508-2",
+            "interstitial": "R-M-1600508-1"
         }
     },
     "Config": {
